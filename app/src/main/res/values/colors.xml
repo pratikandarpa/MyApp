@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#233C77</color>
+    <color name="primary_light">#233C77</color>
+    <color name="primary_dart">#233C77</color>
+
+
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="grey">#707070</color>
+    <color name="light_grey">#F4F4F4</color>
+    <color name="green">#0B9F19</color>
+    <color name="red">#F24C4C</color>
+
+    <color name="theme">#2B305E</color>
+    <color name="light_theme">#7E2B305E</color>
+
+</resources>

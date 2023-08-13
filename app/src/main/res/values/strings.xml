@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyExamApp</string>
+    <string name="app">myApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Please_click_BACK_again_to_exit">Please click BACK again to exit</string>
+
+    <!--alert dialog message-->
+    <string name="required">Required</string>
+
+    <string name="ok">ok</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="userName">User Name</string>
+    <string name="email">Email</string>
+
+    <string name="password">Password</string>
+    <string name="select_all">Select All</string>
+    <string name="logout">LogOut</string>
+
+    <string name="access_to_the_photo_gallery">access_to_the_photo_gallery</string>
+    <string name="provide_access_to_photo_gallery">provide_access_to_photo_gallery</string>
+    <string name="settings">settings</string>
+    <string name="cancel">cancel</string>
+    <string name="click_here_to_registration">Click here to Register</string>
+    <string name="click_here_to_login">Click here to Login</string>
+
+    <string name="please_select_the_photo">Please select the photo</string>
+    <string name="enter_name">Please enter the name</string>
+    <string name="enter_email">Please enter the email</string>
+    <string name="enter_valid_email">Please enter valid email</string>
+    <string name="enter_password">Please enter the password</string>
+    <string name="enter_valid_password">Please enter valid password</string>
+
+    <string name="profile">Profile</string>
+    <string name="please_select_the_images">Please select the images</string>
+    <string name="downloading">Downloading</string>
+    <string name="registration_successful">Registration successful</string>
+    <string name="authentication_failed">Authentication failed.</string>
+
+    <string name="login_successful">Login successful</string>
+    <string name="login_failed">Login failed. Please check email and password</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="filter">Filter</string>
+    <string name="select_from_date">Please select From Date</string>
+    <string name="select_to_date">Please select To Date</string>
+    <string name="to_date_from_date">toDate must be greater than fromDate</string>
+    <string name="download_successful">Download successful</string>
+
+    <string name="mail_verification">Please verify your email by checking your inbox and then log in to the app.</string>
+    <string name="login_verify_mail">Please verify your Email</string>
+    <string name="select_image">Select Image</string>
+    <string name="no_data_found">No Data Found</string>
+
+</resources>
